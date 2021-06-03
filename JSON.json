@@ -4,6 +4,9 @@
 		"continentname": "Asia",
 			"sizearea": "43.4 million km2",
 			"numberofctates": "50",
+			"bigcountry":
+		        "sizearea": "43.4 million km2",
+			"numberofctates": "50",
 			"bigcountry": 
 				{
 				  "state": "China",
